@@ -26,3 +26,8 @@ float: right;
 background-color:green;
 float: left;
 }
+
+.container {
+    float: left;
+    width: 50%;
+}
